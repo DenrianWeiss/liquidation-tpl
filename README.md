@@ -14,7 +14,7 @@ All submitted liquidation notification must be a json in the following format:
     ],
     "var_allowed": {
         "contract_type": ["USDT"]
-    }
+    },
     "message": [
         "[Huobi][<contract_type>本位永续][<contract_type>全仓账户]",
         "您的帐户的担保资产已低于0，有<contract_type>等一个合约已被强平。"
