@@ -36,4 +36,8 @@ These vars are defined in templates engine, and can be used with declaration.
 - Time `<time>`
   Current system time
 
+## Pull request
 
+You should place your template in the following format:  
+`<repo root>/<codename>/<whatever>.lqtpl.json`  
+Where codename should be the trader's English name.
